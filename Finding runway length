@@ -1,0 +1,6 @@
+"C:\Program Files\Java\jdk-12.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.1.1\lib\idea_rt.jar=54859:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.1.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\mchan\PS\out\production\PS com.teamtreehouse.FindingRunwayLength
+ Enter meters per seconds so that we know the minimum runway length needed for an airplane to take off 20
+ What is the acceleration? :15
+ The answer is :3000.0
+
+Process finished with exit code 0
